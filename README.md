@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="YOUR_GIF_URL_HERE" alt="header gif" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Hemang Joshi</h1>
 <h3 align="center">I am interested in Data Analysis and Visualization</h3>
 
