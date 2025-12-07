@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_GIF_URL_HERE" alt="header gif" width="100%" />
+  <img src="https://miro.medium.com/v2/0*cPrF_XMe7U6atYgM.gif" alt="header gif" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Hemang Joshi</h1>
